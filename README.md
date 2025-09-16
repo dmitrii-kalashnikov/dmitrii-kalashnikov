@@ -2,7 +2,7 @@
 ## Lead DevOps Engineer & AWS Solutions Architect | AWS 7x | Terraform | Certified 🦄 Expert
 
 ### About
-I am Dmitrii Kalashnikov, an AWS DevOps Engineer at Quantori, a leading provider of software engineering solutions for the life sciences industry. With a High School Diploma in Finance and Financial Management Services from Plekhanov Russian University of Economics, I have a strong foundation in financial management and analysis, which complements my technical skills and enables me to deliver optimal solutions for complex business problems.
+I am Dmitrii Kalashnikov, an AWS DevOps Engineer, a leading provider of software engineering solutions for the life sciences industry. With a High School Diploma in Finance and Financial Management Services from Plekhanov Russian University of Economics, I have a strong foundation in financial management and analysis, which complements my technical skills and enables me to deliver optimal solutions for complex business problems.
 
 I specialize in Infrastructure as Code (IaC) and Continuous Integration and Continuous Delivery (CI/CD) pipelines, using AWS and Terraform as my core technologies. I have successfully managed and optimized AWS environments with comprehensive services. I have spearheaded IaC initiatives using Terraform, enhancing code efficiency and security through strategic implementations. Additionally, I have boosted automation efficiency by 80% through CI/CD pipeline optimization, using tools like Jenkins, GitHub Actions, GitLab, and AWS CodePipeline.
 
