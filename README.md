@@ -1,5 +1,5 @@
-# Dmitrii Kalashnikov (He/Him)
-## Lead DevOps Engineer & AWS Solutions Architect | AWS 7x | Terraform | Certified 🦄 Expert
+# Dmitrii Kalashnikov
+## Lead DevOps Engineer & AWS Solutions Architect | DevSecOps | AWS 7x | Terraform | Certified 🦄 Expert
 
 ### About
 I am Dmitrii Kalashnikov, an AWS DevOps Engineer, a leading provider of software engineering solutions for the life sciences industry. With a High School Diploma in Finance and Financial Management Services from Plekhanov Russian University of Economics, I have a strong foundation in financial management and analysis, which complements my technical skills and enables me to deliver optimal solutions for complex business problems.
@@ -11,13 +11,8 @@ I am passionate about delivering innovative, scalable, and reliable solutions th
 ### Interests
 - 🔭 Currently working on AI
 - 🌱 Currently discovering new challenges and pioneering in my field
-- 👯 Looking to collaborate on RPA
 - 💬 Find me on [Medium](https://medium.com/@dmitriikalashnikov)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/dmitrii-kalashnikov/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Love challenges and pioneering 
 
 ### Bio 📖
 Dad, husband, AWS Solutions Architect, Lead DevOps Engineer, and digital product manager, I am a technology enthusiast who has spent the last ten years collaborating on IT projects for some of the world’s most exciting and forward-thinking brands in the life sciences industry. Outside of my professional endeavors, I embrace the vibrant culture and beauty of the Caribbean with my family, engage passionately in nonprofit projects that drive meaningful change, and attend tech conferences worldwide.
-
-
